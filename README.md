@@ -95,22 +95,21 @@ Move the whole `build` directory to the [travel website server](https://github.c
 
 
 ### More Demos
+------
 
-*- MainPage*
+##### MainPage
 
 ![MainPage](https://github.com/Hui0820/Pictures/blob/master/mainPage.png?raw=true)
 
-*- Post Article*
+##### Post Article
 
 ![Post article](https://github.com/Hui0820/Pictures/blob/master/Posting.png?raw=true)
 
-*- Search*
+##### Search
 
 ![search](https://github.com/Hui0820/Pictures/blob/master/SearchBox.png?raw=true)
 
-
-
-*- Instant Message*
+##### Instant Message
 
 ![instant message](https://github.com/Hui0820/Pictures/blob/master/InstantMessage.png?raw=true)
 
